@@ -14,6 +14,6 @@
 
 
 ### 👇 Try visiting my blog   
-   <img src="https://img.shields.io/badge/Notion-zizi1122%20-ff69b4"/>
+   [![notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/zizi1122/)](https://www.notion.so/zizi1122/)
 
 </div>
