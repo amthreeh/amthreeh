@@ -1,16 +1,19 @@
-### Hi there 👋
+### 제 github에 방문해주셔서 감사합니다 👋
 
-<!--
-**amthreeh/amthreeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/amthreeh/amthreeh/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white"/>
+<a href="https://github.com/amthreeh"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finamthreeh&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-Here are some ideas to get you started:
+저는 현재 수원대 데이터과학부에서 머신러닝, 딥러닝, 데이터 분석/예측을 공부하고 있는 학생입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+- 수원대학교 국가건강영양데이터분석 경진대회 ✨최우수상✨ 입상 
+- 데이콘 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회 참가
+- 수원대X데이콘 데이터 분석예측 세미나 참가
+- 한이음 주식예측시스템 AI 서비스 구현
+
+
+### 👇 Try visiting my blog   
+   <img src="https://img.shields.io/badge/Notion-zizi1122%20-ff69b4"/>
+
+</div>
