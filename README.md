@@ -3,7 +3,7 @@
 <a href="https://github.com/amthreeh/amthreeh/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white"/>
 <a href="https://github.com/amthreeh"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finamthreeh&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-저는 현재 수원대 데이터과학부에서 머신러닝, 딥러닝, 데이터 분석/예측을 공부하고 있는 학생입니다.
+저는 현재 수원대 데이터과학부에서 CV, 머신러닝, 딥러닝, 데이터 분석/예측을 공부하고 있는 학생입니다.
 
 ## Tech
 
