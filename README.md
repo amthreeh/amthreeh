@@ -5,6 +5,7 @@
 
 Research Interest: Self-supervised Learning + clustering, image representation, CV, DL
 
+
 ## Tech
 - ETRI(한국전자통신연구원) 연구인턴십
 - 수원대학교 국가건강영양데이터분석 경진대회 ✨대상✨ 입상 
